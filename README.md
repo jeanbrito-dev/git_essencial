@@ -1,7 +1,7 @@
 # 🚀 Projeto em Equipe: Desenvolvimento Colaborativo com Git
 
 ## 📋 Sobre o Projeto
-Este repositório foi criado como parte de uma atividade prática de desenvolvimento de software em grupo. O objetivo principal é exercitar o fluxo de trabalho colaborativo utilizando **Git** e **GitHub**, simulando o dia a dia de uma equipe real de desenvolvedores.
+Este repositório é fruto de uma atividade prática de desenvolvimento em grupo que simula o fluxo real de uma equipe de software. O objetivo é dominar o uso colaborativo do Git e GitHub, focando em organização de branches, revisões de código e resolução de conflitos em um ambiente profissional.
 
 ### 🎯 Tema Escolhido
 > **Portfólio** > 
